@@ -1,0 +1,8 @@
+{
+  "name": "VocaPlay",
+  "description": "Interactive English vocabulary-learning and language games application for Grade 6–8 students with lessons, context activities, quizzes, sentence builder, games arcade, and progress tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
